@@ -1,6 +1,6 @@
 # Mathjs functions dump
 
-
+```
 { config: [Getter],
   IndexError: [Getter],
   DimensionError: [Getter],
@@ -1004,3 +1004,4 @@
   typeof: [Function],
   eval: [Function],
   import: [Function: deprecatedImport] }
+  ```
