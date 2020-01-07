@@ -1,5 +1,7 @@
 # Mathjs functions dump
 
+For personal use!
+
 ```
 { config: [Getter],
   IndexError: [Getter],
